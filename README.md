@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Rust.
 - 🌱 I’m currently learning Compiler.
 - 👯 I’m looking to collaborate on snmp-rs.
