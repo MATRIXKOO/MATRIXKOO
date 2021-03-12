@@ -11,7 +11,7 @@
 
 ![matrixkoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matrixkoo&include_all_commits=true&show_icons=true&count_private=true&theme=graywhite)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dustb1n&theme=graywhite"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dustb1n"/>
 <img src="https://profile-counter.glitch.me/dustbin/count.svg"/>
 
 
