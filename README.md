@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Rust.
-- 🌱 I’m currently learning Compiler.
+- ⚡ I’m currently as a intern.
+- 📕 I’m currently learning Compiler.
 - 👯 I’m looking to collaborate on snmp-rs.
 - 💬 Ask me about ANYTHING.
 - 📫 How to reach me: see my Email.
