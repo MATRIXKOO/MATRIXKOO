@@ -5,7 +5,7 @@
 - 💬 Ask me about ANYTHING.
 - 📫 How to reach me: see my Email.
 - ⚙  A programmer in a world where nobody knows what one is and what one does.
-
+- 📚 Recommend this -[Computers can be understood](https://blog.nelhage.com/post/computers-can-be-understood/)
 ```cpp
 class Programmer : public Human
 {
