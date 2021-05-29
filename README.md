@@ -22,15 +22,15 @@ class World
   const int answer = 42;
   World(World&& old_world);
   
-  template <ClassName Obj>
+  template <class Obj>
   auto execute(Obj& obj) -> STATUS;
 }
  
 
-Programmer me(varmilo_miya , aoc_3423 , SICP , PC_with_i7_7700HQ);
+Programmer me(anne_pro_2 , aoc_3423 , SICP , PC_with_i7_7700HQ);
 World world(earth);
 
-world.execute(me); 
+world.execute<Programmer>(me); 
 ```
 ![matrixkoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matrixkoo&include_all_commits=true&show_icons=true&count_private=true&theme=graywhite)
 
