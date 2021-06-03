@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ I’m currently as a intern.
-- 📕 I’m currently learning Compiler.
+- 📕 I’m currently learning Compiler and Program Foundation.
 - 💬 Ask me about ANYTHING.
 - 📫 How to reach me: see my Email.
 - ⚙  A programmer in a world where nobody knows what one is and what one does.
