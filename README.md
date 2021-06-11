@@ -36,5 +36,9 @@ world.execute<Programmer>(me);
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dustb1n"/>
 <img src="https://profile-counter.glitch.me/dustbin/count.svg"/>
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/phodal/tangping.svg)](https://starchart.cc/phodal/tangping)
 since 2021-03-12
 
