@@ -27,7 +27,7 @@ class World
 }
  
 
-Programmer me(anne_pro_2 , aoc_3423 , SICP , PC_with_i7_7700HQ);
+Programmer me(Poker_two , aoc_3423 , PFPL , PC_with_i7_7700HQ);
 World world(earth);
 
 world.execute<Programmer>(me); 
@@ -37,8 +37,5 @@ world.execute<Programmer>(me);
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dustb1n"/>
 <img src="https://profile-counter.glitch.me/dustbin/count.svg"/>
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/MATRIXKOO/MATRIXKOO.svg)](https://starchart.cc/MATRIXKOO/MATRIXKOO)
 since 2021-03-12
 
