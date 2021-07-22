@@ -13,6 +13,7 @@ public:
   auto eat() -> STATUS;
   auto code() -> STATUS;
   auto sleep() -> STATUS;
+  auto repeat() -> STATUS;
   
   Programmer(KeyBoard keyboard , Screen screen , Book tech_book , Computer high_performance_computer);
 }
@@ -27,7 +28,7 @@ class World
 }
  
 
-Programmer me(Poker_two , aoc_3423 , PFPL , PC_with_i7_7700HQ);
+Programmer me(Poker_II , DELL , PFPL , PC_with_i7_7700HQ);
 World world(earth);
 
 world.execute<Programmer>(me); 
