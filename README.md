@@ -28,7 +28,7 @@ class World
 }
  
 
-Programmer me(Poker_II , DELL , PFPL , PC_with_i7_7700HQ);
+Programmer me(Poker_II , DELL , PFPL , mbp_with_m1_chip);
 World world(earth);
 
 world.execute<Programmer>(me); 
