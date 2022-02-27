@@ -7,6 +7,12 @@
 - ⚙  A programmer in a world where nobody knows what one is and what one does.
 - 📚 Recommend those -[Computers can be understood](https://blog.nelhage.com/post/computers-can-be-understood/) , [write-code-every-day](https://johnresig.com/blog/write-code-every-day/)
 ```cpp
+
+template<typename T>
+concept TouchFishAble = requires(T human) {
+  { human.touchFish() };
+};
+
 class Programmer : public Human
 {
 public:
@@ -29,9 +35,18 @@ class World
  
 
 Programmer me(Poker_II , DELL , PFPL , mbp_with_m1_chip);
-World world(earth);
 
-world.execute<Programmer>(me); 
+orld world(earth);
+
+world.execute<Programmer>(me);
+
+
+constexpr auto lambda = [](auto TouchFishAble) {
+  return [](auto human) {
+    human.touchFish();
+  };
+};
+
 ```
 ![matrixkoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matrixkoo&include_all_commits=true&show_icons=true&count_private=true&theme=graywhite)
 
