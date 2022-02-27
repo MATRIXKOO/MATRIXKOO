@@ -36,7 +36,7 @@ class World
 
 Programmer me(Poker_II , DELL , PFPL , mbp_with_m1_chip);
 
-orld world(earth);
+World world(earth);
 
 world.execute<Programmer>(me);
 
