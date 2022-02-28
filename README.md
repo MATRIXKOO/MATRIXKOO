@@ -48,6 +48,7 @@ constexpr auto lambda = [](auto TouchFishAble) {
 };
 
 ```
+[![wakatime](https://wakatime.com/badge/user/84b9b731-2cfb-4a16-b553-b1a6fcd92b58.svg)](https://wakatime.com/@84b9b731-2cfb-4a16-b553-b1a6fcd92b58)
 ![matrixkoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matrixkoo&include_all_commits=true&show_icons=true&count_private=true&theme=graywhite)
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dustb1n"/>
