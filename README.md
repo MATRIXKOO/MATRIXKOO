@@ -2,7 +2,7 @@
 <a href="https://wakatime.com/@84b9b731-2cfb-4a16-b553-b1a6fcd92b58"><img src="https://wakatime.com/badge/user/84b9b731-2cfb-4a16-b553-b1a6fcd92b58.svg" alt="Total time coded since Jun 11 2020" /></a>
 
 - ⚡ I’m currently as a intern.
-- 📕 I’m currently learning Compiler, Static Analysis and Program Foundation.
+- 📕 I’m currently learning Compiler, Program Analysis and Program Foundation. 
 - 💬 Ask me about ANYTHING.
 - 📫 How to reach me: see my Email.
 - ⚙  A programmer in a world where nobody knows what one is and what one does.
