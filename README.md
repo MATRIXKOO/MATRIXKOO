@@ -35,7 +35,7 @@ class World
 }
  
 
-Programmer me(Poker_II , DELL , PLFA , mbp_with_m1_chip);
+Programmer me(Niz , Mateview , PLFA , mbp_with_m1_chip);
 
 World world(earth);
 
