@@ -27,7 +27,7 @@ public:
 
 class World
 {
-  const int answer = 42;
+  constexpr int answer = 42;
   World(World&& old_world);
   
   template <class Obj>
@@ -35,9 +35,9 @@ class World
 }
  
 
-Programmer me(Niz , Mateview , PLFA , mbp_with_m1_chip);
+constinit Programmer me(Niz , Mateview , PLFA , mbp_with_m1_chip);
 
-World world(earth);
+World world(std::move(earth));
 
 world.execute<Programmer>(me);
 
