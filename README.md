@@ -55,5 +55,6 @@ constexpr auto lambda = [](auto TouchFishAble) {
 
 <img src="https://profile-counter.glitch.me/dustbin/count.svg"/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=matrixkoo)](https://github.com/ryo-ma/github-profile-trophy)
 since 2021-03-12
 
