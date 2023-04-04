@@ -1,4 +1,5 @@
-<img  src="assests/borderseperator.gif">
+<img  src="asserts/borderseperator.gif">
+
 ### Hi there 👋
 <a href="https://wakatime.com/@84b9b731-2cfb-4a16-b553-b1a6fcd92b58"><img src="https://wakatime.com/badge/user/84b9b731-2cfb-4a16-b553-b1a6fcd92b58.svg" alt="Total time coded since Jun 11 2020" /></a>
 
